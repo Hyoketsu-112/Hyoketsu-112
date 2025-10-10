@@ -95,7 +95,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 [![Email](https://img.shields.io/badge/Email-oshinayadamilola3@gmail.com-red?style=for-the-badge)](mailto:oshinayadamilola3@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20me-black?style=for-the-badge&logo=github)](https://github.com/Hyoketsu-112)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Work-blue?style=for-the-badge)](https://github.com/Hyoketsu-112/My_Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Work-blue?style=for-the-badge)](https://oshinayaportfolio.netlify.app/)
 
 ---
 
