@@ -30,9 +30,6 @@ I'm a **Creative Designer & Frontend Developer** passionate about crafting digit
 
 ## 📂 My Projects
 
-### 🎮 [NexusGame Landing Page](https://github.com/Hyoketsu-112/nexusgame-landing-page)
-A modern, responsive game landing page built with **React**. Features smooth animations, interactive components, and a stunning UI design. This project showcases my React skills and modern frontend development practices.
-
 ### 🛒 [Little Angel's Store](https://github.com/Hyoketsu-112/Little-Angel-s-Store)
 A full-featured e-commerce website for children's clothing, built with HTML, CSS, and JavaScript. Features dynamic product display, shopping cart, and user login functionality.
 
