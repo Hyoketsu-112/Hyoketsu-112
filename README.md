@@ -1,106 +1,136 @@
-# Hi there, I'm Oshinaya Damilola! 👋
+# 👋 Hello, I'm Oshinaya Damilola
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:oshinayadamilola3@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Lagos,%20Nigeria-green)]()
+**Creative Designer & Frontend Developer** crafting elegant digital experiences that marry form with function.
 
-## 🚀 About Me
+[![Email](https://img.shields.io/badge/📧%20Email-oshinayadamilola3@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:oshinayadamilola3@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-oshinayaportfolio.netlify.app-4285F4?style=flat-square&logo=react&logoColor=white)](https://oshinayaportfolio.netlify.app/)
+[![Location](https://img.shields.io/badge/📍%20Lagos,%20Nigeria-008000?style=flat-square&logo=location&logoColor=white)]()
+[![Open to Work](https://img.shields.io/badge/🔍%20Open%20to%20Work-FF6B6B?style=flat-square)]()
 
-I'm a **Creative Designer & Frontend Developer** passionate about crafting digital and brand experiences that are both functional and visually engaging. I focus on creating timeless designs that users love.
+---
 
-- 🔭 I'm currently working on **e-commerce projects, portfolio websites, and React applications**
-- 🌱 I'm currently learning **advanced JavaScript, React, and modern frontend frameworks**
-- 👯 I'm looking to collaborate on **creative web projects and React applications**
-- 💬 Ask me about **HTML, CSS, JavaScript, React, and UI/UX design**
-- 📫 How to reach me: **oshinayadamilola3@gmail.com**
-- ⚡ Fun fact: **I enjoy turning creative ideas into functional digital experiences**
+## 🎯 About Me
 
-## 🛠️ Technologies & Tools
+I'm a passionate frontend developer and creative designer dedicated to building intuitive, responsive, and visually compelling web applications. With a keen eye for design and strong technical skills in modern JavaScript frameworks, I create digital solutions that deliver exceptional user experiences.
 
-### Frontend Development
+**Currently focused on:**
+- 🔭 Building React applications with modern architecture patterns
+- 🌱 Mastering advanced React concepts & performance optimization
+- 🎨 Designing scalable component libraries and design systems
+- ⚡ Exploring Next.js and TypeScript for full-stack capabilities
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Design Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Creative Suite](https://img.shields.io/badge/Adobe%20Creative%20Suite-DA1F26?style=for-the-badge&logo=adobe&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-## 📂 My Projects
-
-### 🛒 [Little Angel's Store](https://github.com/Hyoketsu-112/Little-Angel-s-Store)
-A full-featured e-commerce website for children's clothing, built with HTML, CSS, and JavaScript. Features dynamic product display, shopping cart, and user login functionality.
-
-### 🛍️ [Pheran-Hub](https://github.com/Hyoketsu-112/Pheran-Hub-Owned-By-Obafemi-Victor)
-An E-commerce website where I assisted in building the frontend interface and user experience.
-
-### 📖 [KetsuBooks](https://github.com/Hyoketsu-112/KetsuBooks)
-A project focused on book-related content or services, built with modern CSS techniques.
-
-### 💼 [My Portfolio](https://github.com/Hyoketsu-112/My_Portfolio)
-My personal portfolio website showcasing my skills, projects, and design philosophy as a Creative Designer & Frontend Developer.
-
-## 🎯 What I'm Working On
-
-- **Building React applications** with modern hooks and state management
-- **Improving my JavaScript skills** with advanced concepts and patterns
-- **Learning modern frontend frameworks** and libraries
-- **Creating responsive and accessible designs** that work across all devices
-- **Developing interactive user interfaces** with smooth animations
-
-## 📈 GitHub Stats
-
-![Oshinaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hyoketsu-112&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyoketsu-112&layout=compact&theme=radical&hide_border=true)
-
-![React](https://img.shields.io/badge/React-Expertise-61DAFB?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript)
-![Frontend](https://img.shields.io/badge/Frontend%20Development-Passionate-1572B6?style=for-the-badge)
-
-## 🌟 My Design & Development Philosophy
-
-I believe in creating digital experiences that are:
-- **User-centered** - Designed with the end-user in mind
-- **Visually appealing** - Clean, modern, and engaging interfaces
-- **Functional** - Solutions that work seamlessly
-- **Responsive** - Perfect on all devices
-- **Modern** - Using latest technologies like React and modern JavaScript
-- **Performance-focused** - Fast and efficient applications
-
-## 🚀 Recent React Project: NexusGame Landing Page
-
-### Features Built with React:
-- ⚛️ **Component-based architecture** for reusable and maintainable code
-- 🎨 **Modern UI/UX** with smooth animations and transitions
-- 📱 **Fully responsive design** that works on all devices
-- 🔧 **Interactive elements** with React state management
-- 🎯 **Clean code structure** following React best practices
-
-### Technologies Used:
-- **React** (Functional components, hooks)
-- **Modern CSS3** (Grid, Flexbox, animations)
-- **JavaScript ES6+**
-- **Responsive Design**
-- **Git & GitHub** for version control
-
-## 📫 Let's Connect!
-
-I'm always open to discussing new projects, creative ideas, or opportunities to bring digital visions to life. Whether it's React development, frontend projects, or creative design work, I'd love to hear from you!
-
-[![Email](https://img.shields.io/badge/Email-oshinayadamilola3@gmail.com-red?style=for-the-badge)](mailto:oshinayadamilola3@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20me-black?style=for-the-badge&logo=github)](https://github.com/Hyoketsu-112)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Work-blue?style=for-the-badge)](https://oshinayaportfolio.netlify.app/)
+### **Currently Learning**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
-⭐️ From [Oshinaya Damilola](https://github.com/Hyoketsu-112)
+## 🚀 Featured Projects
 
-*"Crafting digital experiences that blend creativity with functionality using modern technologies like React"* 🎨⚛️🚀
+### **🛒 Little Angel's Store** | [Live Demo](https://github.com/Hyoketsu-112/Little-Angel-s-Store)
+**E-commerce Platform** · React · JavaScript · CSS3  
+Full-featured children's clothing e-commerce site with dynamic product display, shopping cart, and user authentication.
 
----
+```javascript
+// Key Features:
+- 🔄 Dynamic product filtering & sorting
+- 🛍️ Interactive shopping cart with localStorage
+- 👤 User authentication system
+- 📱 Fully responsive mobile-first design
+- ⚡ Optimized performance & smooth animations
 
-**Thanks for visiting my profile!** 😊 
-Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on something amazing! I'm particularly excited about React projects and modern frontend development.
+💼 Personal Portfolio | Live Site
+Portfolio Website · React · CSS Animations
+Showcasing my design philosophy and development projects with smooth animations and responsive design.
+
+🛍️ Pheran-Hub E-commerce
+E-commerce Frontend · JavaScript · CSS3
+Collaborative project focusing on frontend interface development and UX optimization.
+
+📊 GitHub Analytics
+<div align="center">
+https://github-readme-stats.vercel.app/api?username=Hyoketsu-112&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=Hyoketsu-112&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF
+
+https://streak-stats.demolab.com/?user=Hyoketsu-112&theme=radical&hide_border=true&background=0D1117&stroke=1F6FEB
+
+</div>
+🏆 Technical Expertise
+Frontend Development	UI/UX Design	Tools & Workflow
+React & Component Architecture	User-Centered Design Principles	Git Version Control
+Modern JavaScript (ES6+)	Responsive & Mobile-First Design	Agile Development
+CSS3 (Grid, Flexbox, Animations)	Wireframing & Prototyping	Figma for Design
+REST API Integration	Visual Design & Branding	Netlify Deployment
+Performance Optimization	Accessibility (a11y) Standards	CI/CD Understanding
+📈 Development Philosophy
+yaml
+core_principles:
+  - user_centered: "Design with the end-user as priority one"
+  - clean_code: "Write maintainable, scalable, and documented code"
+  - performance: "Optimize for speed and efficiency"
+  - responsive: "Ensure flawless experience across all devices"
+  - modern: "Utilize current best practices and technologies"
+  
+design_approach:
+  - simplicity: "Minimalist, intuitive interfaces"
+  - consistency: "Cohesive design systems"
+  - emotion: "Engaging and memorable experiences"
+  - function: "Purposeful and usable designs"
+📝 Latest Blog Posts / Insights
+<!-- BLOG-POST-LIST:START -->
+🎨 Design Systems in React: Building scalable component libraries
+
+⚡ Performance Optimization: Techniques for faster React apps
+
+🔧 React Hooks Deep Dive: Beyond useState and useEffect
+
+🚀 From Design to Code: My workflow for implementing designs
+
+<!-- BLOG-POST-LIST:END -->
+🤝 Let's Collaborate!
+I'm actively seeking opportunities to work on innovative React projects, creative web applications, and design-system implementations. Whether you need:
+
+🎯 Frontend development for your web application
+
+🎨 UI/UX design implementation in React
+
+🔧 Code review or technical consultation
+
+🤝 Collaboration on open-source projects
+
+Let's create something amazing together!
+
+📫 Connect With Me
+<div align="center">
+https://img.shields.io/badge/Email%2520Me-oshinayadamilola3@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/LinkedIn-Connect%2520Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Twitter-Follow%2520for%2520Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+https://img.shields.io/badge/%F0%9F%8E%A8%2520View%2520Portfolio-4285F4?style=for-the-badge&logo=react&logoColor=white
+
+</div>
+<div align="center">
+"Transforming creative vision into functional, elegant code" ✨
+⭐️ Thanks for visiting! Don't forget to check out my repositories and star your favorites!
+
+https://komarev.com/ghpvc/?username=Hyoketsu-112&color=blue&style=flat-square
+
+</div> ```
