@@ -49,24 +49,58 @@ I'm a passionate frontend developer and creative designer dedicated to building 
 **E-commerce Platform** · React · JavaScript · CSS3  
 Full-featured children's clothing e-commerce site with dynamic product display, shopping cart, and user authentication.
 
-📊 GitHub Analytics
+```javascript
+// Key Features:
+- 🔄 Dynamic product filtering & sorting
+- 🛍️ Interactive shopping cart with localStorage
+- 👤 User authentication system
+- 📱 Fully responsive mobile-first design
+- ⚡ Optimized performance & smooth animations
+```
+
+### **⚛️ NexusGame Landing Page** | [GitHub](https://github.com/Hyoketsu-112)
+**React Landing Page** · React Hooks · Modern CSS  
+Interactive gaming platform landing page built with React functional components and custom hooks.
+
+### **💼 Personal Portfolio** | [Live Site](https://oshinayaportfolio.netlify.app/)
+**Portfolio Website** · React · CSS Animations  
+Showcasing my design philosophy and development projects with smooth animations and responsive design.
+
+### **🛍️ Pheran-Hub E-commerce**
+**E-commerce Frontend** · JavaScript · CSS3  
+Collaborative project focusing on frontend interface development and UX optimization.
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
-https://github-readme-stats.vercel.app/api?username=Hyoketsu-112&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB
+  
+![Oshinaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hyoketsu-112&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Hyoketsu-112&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyoketsu-112&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
 
-https://streak-stats.demolab.com/?user=Hyoketsu-112&theme=radical&hide_border=true&background=0D1117&stroke=1F6FEB
+![GitHub Streak](https://streak-stats.demolab.com/?user=Hyoketsu-112&theme=radical&hide_border=true&background=0D1117&stroke=1F6FEB)
 
 </div>
 
-🏆 Technical Expertise
-Frontend Development	|UI/UX Design	Tools & Workflow
-React & Component Architecture	|User-Centered Design Principles	|Git Version Control
-Modern JavaScript (ES6+)	|Responsive & Mobile-First Design	|Agile Development
-CSS3 (Grid, Flexbox, Animations)	|Wireframing & Prototyping	|Figma for Design
-REST API Integration	|Visual Design & Branding	|Netlify Deployment
-Performance Optimization	|Accessibility (a11y) Standards	|CI/CD Understanding
+---
 
+## 🏆 Technical Expertise
+
+| **Frontend Development** | **UI/UX Design** | **Tools & Workflow** |
+|--------------------------|------------------|----------------------|
+| React & Component Architecture | User-Centered Design Principles | Git Version Control |
+| Modern JavaScript (ES6+) | Responsive & Mobile-First Design | Agile Development |
+| CSS3 (Grid, Flexbox, Animations) | Wireframing & Prototyping | Figma for Design |
+| REST API Integration | Visual Design & Branding | Netlify Deployment |
+| Performance Optimization | Accessibility (a11y) Standards | CI/CD Understanding |
+
+---
+
+## 📈 Development Philosophy
+
+```yaml
 core_principles:
   - user_centered: "Design with the end-user as priority one"
   - clean_code: "Write maintainable, scalable, and documented code"
@@ -79,45 +113,68 @@ design_approach:
   - consistency: "Cohesive design systems"
   - emotion: "Engaging and memorable experiences"
   - function: "Purposeful and usable designs"
+```
 
-📝 Latest Blog Posts / Insights
+---
+
+## 📝 Latest Blog Posts / Insights
+
 <!-- BLOG-POST-LIST:START -->
-🎨 Design Systems in React: Building scalable component libraries
-
-⚡ Performance Optimization: Techniques for faster React apps
-
-🔧 React Hooks Deep Dive: Beyond useState and useEffect
-
-🚀 From Design to Code: My workflow for implementing designs
-
+- 🎨 **Design Systems in React**: Building scalable component libraries
+- ⚡ **Performance Optimization**: Techniques for faster React apps
+- 🔧 **React Hooks Deep Dive**: Beyond useState and useEffect
+- 🚀 **From Design to Code**: My workflow for implementing designs
 <!-- BLOG-POST-LIST:END -->
 
-🤝 Let's Collaborate!
-I'm actively seeking opportunities to work on innovative React projects, creative web applications, and design-system implementations. Whether you need:
+---
 
-🎯 Frontend development for your web application
+## 🤝 Let's Collaborate!
 
-🎨 UI/UX design implementation in React
+I'm actively seeking opportunities to work on **innovative React projects**, **creative web applications**, and **design-system implementations**. Whether you need:
 
-🔧 Code review or technical consultation
+- 🎯 **Frontend development** for your web application
+- 🎨 **UI/UX design** implementation in React
+- 🔧 **Code review** or **technical consultation**
+- 🤝 **Collaboration** on open-source projects
 
-🤝 Collaboration on open-source projects
+**Let's create something amazing together!**
 
-Let's create something amazing together!
+---
 
-📫 Connect With Me
+## 📫 Connect With Me
+
 <div align="center">
-https://img.shields.io/badge/Email%2520Me-oshinayadamilola3@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/LinkedIn-Connect%2520Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Twitter-Follow%2520for%2520Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-https://img.shields.io/badge/%F0%9F%8E%A8%2520View%2520Portfolio-4285F4?style=for-the-badge&logo=react&logoColor=white
+  
+[![Email](https://img.shields.io/badge/Email%20Me-oshinayadamilola3@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oshinayadamilola3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow%20for%20Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Portfolio](https://img.shields.io/badge/🎨%20View%20Portfolio-4285F4?style=for-the-badge&logo=react&logoColor=white)](https://oshinayaportfolio.netlify.app/)
 
 </div>
 
-<div align="center">
-"Transforming creative vision into functional, elegant code" ✨
-⭐️ Thanks for visiting! Don't forget to check out my repositories and star your favorites!
+---
 
-https://komarev.com/ghpvc/?username=Hyoketsu-112&color=blue&style=flat-square
+<div align="center">
+
+### **"Transforming creative vision into functional, elegant code"** ✨
+
+⭐️ **Thanks for visiting!** Don't forget to check out my [repositories](https://github.com/Hyoketsu-112?tab=repositories) and star your favorites!
+
+![Visitors](https://komarev.com/ghpvc/?username=Hyoketsu-112&color=blue&style=flat-square)
 
 </div>
+
+---
+
+## 📋 Quick Navigation
+
+| Section | Description |
+|---------|-------------|
+| [🚀 Projects](#-featured-projects) | My featured development work |
+| [🛠️ Tech Stack](#️-tech-stack) | Technologies I work with |
+| [📊 Analytics](#-github-analytics) | GitHub stats and metrics |
+| [🏆 Expertise](#-technical-expertise) | Skills and capabilities |
+| [📫 Contact](#-connect-with-me) | Ways to reach me |
+
+**Last Updated:** December 2024  
+**Status:** 🟢 Actively building & learning
