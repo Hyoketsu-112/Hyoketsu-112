@@ -49,22 +49,6 @@ I'm a passionate frontend developer and creative designer dedicated to building 
 **E-commerce Platform** · React · JavaScript · CSS3  
 Full-featured children's clothing e-commerce site with dynamic product display, shopping cart, and user authentication.
 
-```javascript
-// Key Features:
-- 🔄 Dynamic product filtering & sorting
-- 🛍️ Interactive shopping cart with localStorage
-- 👤 User authentication system
-- 📱 Fully responsive mobile-first design
-- ⚡ Optimized performance & smooth animations
-
-💼 Personal Portfolio | Live Site
-Portfolio Website · React · CSS Animations
-Showcasing my design philosophy and development projects with smooth animations and responsive design.
-
-🛍️ Pheran-Hub E-commerce
-E-commerce Frontend · JavaScript · CSS3
-Collaborative project focusing on frontend interface development and UX optimization.
-
 📊 GitHub Analytics
 <div align="center">
 https://github-readme-stats.vercel.app/api?username=Hyoketsu-112&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB
@@ -74,15 +58,15 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=Hyoketsu-112&layo
 https://streak-stats.demolab.com/?user=Hyoketsu-112&theme=radical&hide_border=true&background=0D1117&stroke=1F6FEB
 
 </div>
+
 🏆 Technical Expertise
-Frontend Development	UI/UX Design	Tools & Workflow
-React & Component Architecture	User-Centered Design Principles	Git Version Control
-Modern JavaScript (ES6+)	Responsive & Mobile-First Design	Agile Development
-CSS3 (Grid, Flexbox, Animations)	Wireframing & Prototyping	Figma for Design
-REST API Integration	Visual Design & Branding	Netlify Deployment
-Performance Optimization	Accessibility (a11y) Standards	CI/CD Understanding
-📈 Development Philosophy
-yaml
+Frontend Development	|UI/UX Design	Tools & Workflow
+React & Component Architecture	|User-Centered Design Principles	|Git Version Control
+Modern JavaScript (ES6+)	|Responsive & Mobile-First Design	|Agile Development
+CSS3 (Grid, Flexbox, Animations)	|Wireframing & Prototyping	|Figma for Design
+REST API Integration	|Visual Design & Branding	|Netlify Deployment
+Performance Optimization	|Accessibility (a11y) Standards	|CI/CD Understanding
+
 core_principles:
   - user_centered: "Design with the end-user as priority one"
   - clean_code: "Write maintainable, scalable, and documented code"
@@ -95,6 +79,7 @@ design_approach:
   - consistency: "Cohesive design systems"
   - emotion: "Engaging and memorable experiences"
   - function: "Purposeful and usable designs"
+
 📝 Latest Blog Posts / Insights
 <!-- BLOG-POST-LIST:START -->
 🎨 Design Systems in React: Building scalable component libraries
@@ -106,6 +91,7 @@ design_approach:
 🚀 From Design to Code: My workflow for implementing designs
 
 <!-- BLOG-POST-LIST:END -->
+
 🤝 Let's Collaborate!
 I'm actively seeking opportunities to work on innovative React projects, creative web applications, and design-system implementations. Whether you need:
 
@@ -127,10 +113,11 @@ https://img.shields.io/badge/Twitter-Follow%2520for%2520Updates-1DA1F2?style=for
 https://img.shields.io/badge/%F0%9F%8E%A8%2520View%2520Portfolio-4285F4?style=for-the-badge&logo=react&logoColor=white
 
 </div>
+
 <div align="center">
 "Transforming creative vision into functional, elegant code" ✨
 ⭐️ Thanks for visiting! Don't forget to check out my repositories and star your favorites!
 
 https://komarev.com/ghpvc/?username=Hyoketsu-112&color=blue&style=flat-square
 
-</div> ```
+</div>
