@@ -1,154 +1,107 @@
-# 👋 Hello, I'm Oshinaya Damilola
+<div align="center">
 
-**Creative Designer & Frontend Developer** crafting elegant digital experiences that marry form with function.
-
-[![Email](https://img.shields.io/badge/📧%20Email-oshinayadamilola3@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:oshinayadamilola3@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-oshinayaportfolio.netlify.app-4285F4?style=flat-square&logo=react&logoColor=white)](https://oshinayaportfolio.netlify.app/)
-[![Location](https://img.shields.io/badge/📍%20Lagos,%20Nigeria-008000?style=flat-square&logo=location&logoColor=white)]()
-[![Open to Work](https://img.shields.io/badge/🔍%20Open%20to%20Work-FF6B6B?style=flat-square)]()
-
----
-
-## 🎯 About Me
-
-I'm a passionate frontend developer and creative designer dedicated to building intuitive, responsive, and visually compelling web applications. With a keen eye for design and strong technical skills in modern JavaScript frameworks, I create digital solutions that deliver exceptional user experiences.
-
-**Currently focused on:**
-- 🔭 Building React applications with modern architecture patterns
-- 🌱 Mastering advanced React concepts & performance optimization
-- 🎨 Designing scalable component libraries and design systems
-- ⚡ Exploring Next.js and TypeScript for full-stack capabilities
-
----
-
-## 🛠️ Tech Stack
-
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-### **Currently Learning**
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### **🛒 Little Angel's Store** | [Live Demo](https://github.com/Hyoketsu-112/Little-Angel-s-Store)
-**E-commerce Platform** · React · JavaScript · CSS3  
-Full-featured children's clothing e-commerce site with dynamic product display, shopping cart, and user authentication.
-
-```javascript
-// Key Features:
-- 🔄 Dynamic product filtering & sorting
-- 🛍️ Interactive shopping cart with localStorage
-- 👤 User authentication system
-- 📱 Fully responsive mobile-first design
-- ⚡ Optimized performance & smooth animations
+```
+██╗  ██╗██╗   ██╗ ██████╗ ██╗  ██╗███████╗████████╗███████╗██╗   ██╗
+██║  ██║╚██╗ ██╔╝██╔═══██╗██║ ██╔╝██╔════╝╚══██╔══╝██╔════╝██║   ██║
+███████║ ╚████╔╝ ██║   ██║█████╔╝ █████╗     ██║   ███████╗██║   ██║
+██╔══██║  ╚██╔╝  ██║   ██║██╔═██╗ ██╔══╝     ██║   ╚════██║██║   ██║
+██║  ██║   ██║   ╚██████╔╝██║  ██╗███████╗   ██║   ███████║╚██████╔╝
+╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝ ╚═════╝
 ```
 
-### **⚛️ NexusGame Landing Page** | [GitHub](https://github.com/Hyoketsu-112)
-**React Landing Page** · React Hooks · Modern CSS  
-Interactive gaming platform landing page built with React functional components and custom hooks.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Oshinaya+Damilola+%F0%9F%91%BE;aka+Hyoketsu-112;Builder.+Thinker.+Problem+Solver.;Always+shipping+something+new..." alt="Typing SVG" />
 
-### **💼 Personal Portfolio** | [Live Site](https://oshinayaportfolio.netlify.app/)
-**Portfolio Website** · React · CSS Animations  
-Showcasing my design philosophy and development projects with smooth animations and responsive design.
+<br/>
 
-### **🛍️ Pheran-Hub E-commerce**
-**E-commerce Frontend** · JavaScript · CSS3  
-Collaborative project focusing on frontend interface development and UX optimization.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-![Oshinaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hyoketsu-112&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyoketsu-112&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Hyoketsu-112&theme=radical&hide_border=true&background=0D1117&stroke=1F6FEB)
+![Profile Views](https://komarev.com/ghpvc/?username=Hyoketsu-112&color=00f5ff&style=flat-square&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/Hyoketsu-112?color=00f5ff&style=flat-square&logo=github&label=FOLLOWERS)
 
 </div>
 
 ---
 
-## 🏆 Technical Expertise
-
-| **Frontend Development** | **UI/UX Design** | **Tools & Workflow** |
-|--------------------------|------------------|----------------------|
-| React & Component Architecture | User-Centered Design Principles | Git Version Control |
-| Modern JavaScript (ES6+) | Responsive & Mobile-First Design | Agile Development |
-| CSS3 (Grid, Flexbox, Animations) | Wireframing & Prototyping | Figma for Design |
-| REST API Integration | Visual Design & Branding | Netlify Deployment |
-| Performance Optimization | Accessibility (a11y) Standards | CI/CD Understanding |
-
----
-
-## 📈 Development Philosophy
+## `> whoami`
 
 ```yaml
-core_principles:
-  - user_centered: "Design with the end-user as priority one"
-  - clean_code: "Write maintainable, scalable, and documented code"
-  - performance: "Optimize for speed and efficiency"
-  - responsive: "Ensure flawless experience across all devices"
-  - modern: "Utilize current best practices and technologies"
-  
-design_approach:
-  - simplicity: "Minimalist, intuitive interfaces"
-  - consistency: "Cohesive design systems"
-  - emotion: "Engaging and memorable experiences"
-  - function: "Purposeful and usable designs"
+name       : Oshinaya Damilola
+alias      : Hyoketsu-112
+location   : Lagos, Nigeria 🇳🇬
+status     : Building things that matter
+focus      : Clean code. Real solutions. Constant learning.
+currently  : Leveling up every single day
 ```
 
 ---
 
-## 📝 Latest Blog Posts / Insights
-
-<!-- BLOG-POST-LIST:START -->
-- 🎨 **Design Systems in React**: Building scalable component libraries
-- ⚡ **Performance Optimization**: Techniques for faster React apps
-- 🔧 **React Hooks Deep Dive**: Beyond useState and useEffect
-- 🚀 **From Design to Code**: My workflow for implementing designs
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🤝 Let's Collaborate!
-
-I'm actively seeking opportunities to work on **innovative React projects**, **creative web applications**, and **design-system implementations**. Whether you need:
-
-- 🎯 **Frontend development** for your web application
-- 🎨 **UI/UX design** implementation in React
-- 🔧 **Code review** or **technical consultation**
-- 🤝 **Collaboration** on open-source projects
-
-**Let's create something amazing together!**
-
----
-
-## 📫 Connect With Me
+## `> tech_stack --list`
 
 <div align="center">
-  
-[![Email](https://img.shields.io/badge/Email%20Me-oshinayadamilola3@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oshinayadamilola3@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow%20for%20Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/🎨%20View%20Portfolio-4285F4?style=for-the-badge&logo=react&logoColor=white)](https://oshinayaportfolio.netlify.app/)
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Tools**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## `> github_stats --verbose`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hyoketsu-112&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyoketsu-112&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Hyoketsu-112&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f5ff&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## `> activity_graph --render`
+
+<div align="center">
+
+[![Hyoketsu-112's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hyoketsu-112&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## `> quote --random --refresh daily`
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## `> connect --social`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Hyoketsu--112-181717?style=for-the-badge&logo=github)](https://github.com/Hyoketsu-112)
+[![Twitter](https://img.shields.io/badge/Twitter-@Hyoketsu112-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Hyoketsu112)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oshinaya_Damilola-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oshinaya-damilola)
 
 </div>
 
@@ -156,25 +109,10 @@ I'm actively seeking opportunities to work on **innovative React projects**, **c
 
 <div align="center">
 
-### **"Transforming creative vision into functional, elegant code"** ✨
+```
+"First, solve the problem. Then, write the code." — John Johnson
+```
 
-⭐️ **Thanks for visiting!** Don't forget to check out my [repositories](https://github.com/Hyoketsu-112?tab=repositories) and star your favorites!
-
-![Visitors](https://komarev.com/ghpvc/?username=Hyoketsu-112&color=blue&style=flat-square)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00f5ff&height=80&section=footer&fontSize=16" />
 
 </div>
-
----
-
-## 📋 Quick Navigation
-
-| Section | Description |
-|---------|-------------|
-| [🚀 Projects](#-featured-projects) | My featured development work |
-| [🛠️ Tech Stack](#️-tech-stack) | Technologies I work with |
-| [📊 Analytics](#-github-analytics) | GitHub stats and metrics |
-| [🏆 Expertise](#-technical-expertise) | Skills and capabilities |
-| [📫 Contact](#-connect-with-me) | Ways to reach me |
-
-**Last Updated:** December 2024  
-**Status:** 🟢 Actively building & learning
